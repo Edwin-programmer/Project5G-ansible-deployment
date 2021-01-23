@@ -1,4 +1,4 @@
-# Project5G-ansible-deployment
+# 5G-ansible-deployment-project
 5G cloud-native integration and orchestration using the Open Network Automation Platform (ONAP) to deploy Cloud Native Functions (CNFs): OpenAirInterface (OAI) Cloud Radio Access Network (CloudRAN)
 
 * [Project Overview](#project-overview)
