@@ -10,7 +10,7 @@ In this project we explore the fifth generation (5G) cloud native solution as Mo
 
 ## Group Information
 
-**Organization:** Carleton Unviersity (SYSC5804 - 5G Networks)
+**Organization:** Carleton University (SYSC5804 - 5G Networks)
 
 ### Authors:
 
