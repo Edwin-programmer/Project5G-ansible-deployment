@@ -17,7 +17,7 @@ In this project we explore the fifth generation (5G) cloud native solution as Mo
 **1. Kamal Isleem**
  - GitHub: kamal2isleem
 
-**2. Samuel Hagen**
+**2. Samuel Hanson Hagan**
 
  - GitHub: SamuelHagan-Carleton
 
