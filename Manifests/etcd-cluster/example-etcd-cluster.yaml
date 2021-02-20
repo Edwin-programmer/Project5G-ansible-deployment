@@ -1,4 +1,4 @@
-apiVersion: "etcd.database.coreos.com/v1beta2"
+apiVersion: "etcd.database.coreos.com/v1"
 kind: "EtcdCluster"
 metadata:
   name: "dual-network-nic-etcd-cluster"
