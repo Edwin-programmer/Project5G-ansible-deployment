@@ -3,8 +3,6 @@
 
 **Table of Contents**
 
-- [Introduction](#introduction)
-- [Contributing](#contributing)
 * [Project Overview](#project-overview)
 * [Documentation](#documentation)
 * [Group Information](#group-information)
