@@ -13,6 +13,10 @@ In this project we explore the fifth generation (5G) cloud native solution as Mo
 
 ## Documentation
 
+# Documentation
+* [[Using Docker Documentation]]
+* [[Using Kubernetes Documentation]]
+
 User documentation can be found in the Github repository at [Project5G ansible deployment documentation](https://github.com/Edwin-programmer/Project5G-ansible-deployment/wiki)
 
 ## Docker-5G-Deployment
