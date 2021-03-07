@@ -11,11 +11,9 @@
 
 In this project we explore the fifth generation (5G) cloud native solution as Mobile Network Operators (MNOs) need to integrate and test multiple components from the orchestration to the infrastructure level, including the applications and terminals. This demonstrates possibilities for reducing Operational Expenditures and injecting automation in the MNOs’ mobile network infrastructure.
 
-## Documentation
-
 # Documentation
-* [[Using Docker Documentation]]
-* [[Using Kubernetes Documentation]]
+* [Using Docker Documentation](https://github.com/Edwin-programmer/Project5G-ansible-deployment/Docker deployment/README.md)
+* [Using Kubernetes Documentation](https://github.com/Edwin-programmer/Project5G-ansible-deployment/Kubernetes deployment/README.md)
 
 User documentation can be found in the Github repository at [Project5G ansible deployment documentation](https://github.com/Edwin-programmer/Project5G-ansible-deployment/wiki)
 
