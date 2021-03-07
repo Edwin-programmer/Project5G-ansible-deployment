@@ -41,24 +41,3 @@ The installation can be done directly over the host operating system (OS) or ins
      
     
         
-        
-## Group Information
-
-**Organization:** Carleton University (SYSC5804 - 5G Networks)
-
-### Authors:
-
-**1. Kamal Isleem**
- - GitHub: kamal2isleem
-
-**2. Samuel Hanson Hagan**
-
- - GitHub: SamuelHagan-Carleton
-
-**3. Edwin Omoigui**
-
- - GitHub: Edwin-programmer
-
-**3. Muhammad Shafayat Oshman**
-
- - GitHub: 
