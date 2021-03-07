@@ -5,9 +5,6 @@
 
 - [Introduction](#introduction)
 - [Contributing](#contributing)
-
-## Introduction
-
 * [Project Overview](#project-overview)
 * [Documentation](#documentation)
 * [Group Information](#group-information)
