@@ -21,7 +21,7 @@ User documentation can be found below for the two options deployed for the proje
    
         
         
-## Group Information
+## Group details
 
 **Organization:** Carleton University (SYSC5804 - 5G Networks)
 
