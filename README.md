@@ -23,18 +23,10 @@ User documentation can be found below for the two options deployed for the proje
 **Organization:** Carleton University (SYSC5804 - 5G Networks)
 
 ## Authors:
-- **Kamal Isleem**
-
- - GitHub: kamal2isleem
+- **Kamal Isleem** (GitHub: kamal2isleem)
  
-- **Samuel Hanson Hagan**
+- **Samuel Hanson Hagan** (GitHub: SamuelHagan-Carleton)
 
- - GitHub: SamuelHagan-Carleton
+- **Edwin Omoigui** (GitHub: Edwin-programmer)
 
-- **Edwin Omoigui**
-
- - GitHub: Edwin-programmer
-
-- **Muhammad Shafayat Oshman**
-
- - GitHub: Shafayat19
+- **Muhammad Shafayat Oshman** (GitHub: Shafayat19)
