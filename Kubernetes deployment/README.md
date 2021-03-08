@@ -7,13 +7,22 @@
   - [IP tables](#ip-tables)
   - [Minikube](#minikube)
   - [Openvswitch, Multus and OVS-CNI Containers](#openvswitch,-multus-and-ovs-cni-containers)
-  - [Trusted Builder Identities and Trusted Builder Projects](#trusted-builder-identities-and-trusted-builder-projects)
+  - [Kube-flannel & etcd-ha-operator](#kube-flannel-&-etcd-ha-operator)
   - [Checks](#checks)
     - [Repository Groups](#repository-groups)
     - [Repository Authentication](#repository-authentication)
     - [Organization Check](#organization-check)
 - [Deployments](#Deployments)
 - [Usage](#usage)
+
+
+## Prerequisites
+
+Install `aaa_bbb` by running:
+
+```shell
+$ go get -u github.com/aaaaa_server
+```
 
 ## Installation
 
