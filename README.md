@@ -18,10 +18,6 @@ User documentation can be found below for the two options deployed for the proje
 - [Project setup using Kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment/README.md)
 - Additional documentation can be found within the repository Wiki page  [Full documentation](https://github.com/Edwin-programmer/Project5G-ansible-deployment/wiki)
         
-## Group details
-
-**Organization:** Carleton University (SYSC5804 - 5G Networks)
-
 ## Authors:
 - **Kamal Isleem** (GitHub: kamal2isleem)
  
@@ -30,3 +26,4 @@ User documentation can be found below for the two options deployed for the proje
 - **Edwin Omoigui** (GitHub: Edwin-programmer)
 
 - **Muhammad Shafayat Oshman** (GitHub: Shafayat19)
+**Organization:** Carleton University (SYSC5804 - 5G Networks)
