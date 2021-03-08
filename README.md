@@ -20,8 +20,8 @@ User documentation can be found below for the two options deployed for the proje
         
 ## Authors:
 - **Kamal Isleem** _(GitHub: kamal2isleem)_
-- **Samuel Hanson Hagan** (GitHub: SamuelHagan-Carleton)
-- **Edwin Omoigui** (GitHub: Edwin-programmer)
-- **Muhammad Shafayat Oshman** (GitHub: Shafayat19)
+- **Samuel Hanson Hagan** _(GitHub: SamuelHagan-Carleton)_
+- **Edwin Omoigui** _(GitHub: Edwin-programmer)_
+- **Muhammad Shafayat Oshman** _(GitHub: Shafayat19)_
 
-**Organization:** Carleton University (SYSC5804 - 5G Networks)
+**Organization:** Carleton University (SYSC5804 - 5G Networks) March 2021 
