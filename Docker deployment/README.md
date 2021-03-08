@@ -4,7 +4,7 @@
 - [Configuration steps](#configuration-steps)
 
 
-### installation
+### Installation
 The installation can be done directly over the host operating system (OS) or inside a virtual machine (VM).   
 
 **System requirements**
