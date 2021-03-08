@@ -1,7 +1,7 @@
  
 # Using Kubernetes to deploy the 5G network
 
-* [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
   - [IP tables](#ip-tables)
@@ -12,7 +12,7 @@
     - [Repository Groups](#repository-groups)
     - [Repository Authentication](#repository-authentication)
     - [Organization Check](#organization-check)
-* [Deployments](#Deployments)
+- [Deployments](#Deployments)
 - [Usage](#usage)
 
 ## Installation
