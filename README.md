@@ -19,8 +19,9 @@ User documentation can be found below for the two options deployed for the proje
 - Additional documentation can be found within the repository Wiki page  [Full documentation](https://github.com/Edwin-programmer/Project5G-ansible-deployment/wiki)
         
 ## Authors:
-- **Kamal Isleem** (GitHub: kamal2isleem)
+- **Kamal Isleem** _(GitHub: kamal2isleem)_
 - **Samuel Hanson Hagan** (GitHub: SamuelHagan-Carleton)
 - **Edwin Omoigui** (GitHub: Edwin-programmer)
 - **Muhammad Shafayat Oshman** (GitHub: Shafayat19)
-- **Organization:** Carleton University (SYSC5804 - 5G Networks)
+
+**Organization:** Carleton University (SYSC5804 - 5G Networks)
