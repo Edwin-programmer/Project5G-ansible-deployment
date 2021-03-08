@@ -20,10 +20,7 @@ User documentation can be found below for the two options deployed for the proje
         
 ## Authors:
 - **Kamal Isleem** (GitHub: kamal2isleem)
- 
 - **Samuel Hanson Hagan** (GitHub: SamuelHagan-Carleton)
-
 - **Edwin Omoigui** (GitHub: Edwin-programmer)
-
 - **Muhammad Shafayat Oshman** (GitHub: Shafayat19)
-**Organization:** Carleton University (SYSC5804 - 5G Networks)
+- **Organization:** Carleton University (SYSC5804 - 5G Networks)
