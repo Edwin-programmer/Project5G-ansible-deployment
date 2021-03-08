@@ -1,4 +1,9 @@
-## Docker-5G-Deployment
+# Using Docker to deploy the 5G network
+
+- [Installation](#installation)
+- [Configuration steps](#configuration-steps)
+
+
 ### installation
 The installation can be done directly over the host operating system (OS) or inside a virtual machine (VM).   
 
