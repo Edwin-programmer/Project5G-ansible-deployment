@@ -24,4 +24,4 @@ User documentation can be found below for the two options deployed for the proje
 - **Edwin Omoigui** _(GitHub: Edwin-programmer)_
 - **Muhammad Shafayat Oshman** _(GitHub: Shafayat19)_
 
-**Organization:** Carleton University (SYSC5804 - 5G Networks) March 2021 
+**Organization:** Carleton University - Advanced Topics in Communications Systems (SYSC5804 - 5G Networks)
