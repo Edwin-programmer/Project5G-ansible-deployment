@@ -6,7 +6,7 @@
 * [Project Overview](#project-overview)
 * [Documentation](#documentation)
 * [Group Information](#group-information)
-* [Docker-5G-Deployment](#Docker-5G-Deployment)
+
 ## Project Overview
 
 In this project we explore the fifth generation (5G) cloud native solution as Mobile Network Operators (MNOs) need to integrate and test multiple components from the orchestration to the infrastructure level, including the applications and terminals. This demonstrates possibilities for reducing Operational Expenditures and injecting automation in the MNOs’ mobile network infrastructure.
