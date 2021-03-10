@@ -47,7 +47,18 @@ The installation can be done directly over the host operating system (OS) or ins
     
 ``` sudo docker ps ```   
   
-![](images/docker_ps.png)
+![](images/docker_ps.png)  
+  
+  
+**7. Test Web interface**   
+    
+``` http://0.0.0.0:3000 ```   
+  User name : admin  
+  password :1423   
+  
+![](images/login%20webui.png)
+
+
 
      
     
