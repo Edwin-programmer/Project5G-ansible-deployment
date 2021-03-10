@@ -57,7 +57,10 @@ The installation can be done directly over the host operating system (OS) or ins
   User name : admin  
   Password :1423   
   
-![](images/login%20webui.png)  
+![](images/login%20webui.png)     
+  
+     
+![](images/webui.png)
   
    
 **9. Test UE access**   
