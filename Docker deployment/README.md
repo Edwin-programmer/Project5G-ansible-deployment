@@ -45,8 +45,9 @@ The installation can be done directly over the host operating system (OS) or ins
    
 **7. Test Installation**   
     
-``` sudo docker ps ```
-
+``` sudo docker ps ```   
+  
+![](images/docker_ps.png)
 
      
     
