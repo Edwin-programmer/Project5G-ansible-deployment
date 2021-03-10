@@ -50,13 +50,29 @@ The installation can be done directly over the host operating system (OS) or ins
 ![](images/docker_ps.png)  
   
   
-**7. Test Web interface**   
+**8. Test Web interface**   
     
-``` http://0.0.0.0:3000 ```   
-  User name : admin  
-  password :1423   
+``` http://0.0.0.0:3000 ```  
   
-![](images/login%20webui.png)
+  User name : admin  
+  Password :1423   
+  
+![](images/login%20webui.png)  
+  
+   
+**9. Test UE access**   
+   
+   ``` docker exec -ti ue bash  ```  
+    
+    to check UE ip address run:  
+    ``` ifconfig  ```  
+  ![](images/uE.png)   
+   
+     and then   
+       
+    ``` ping google.com  ```  
+  ![](images/UE-ping%20-google.png)  
+
 
 
 
