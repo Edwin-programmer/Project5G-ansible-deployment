@@ -43,6 +43,11 @@ The installation can be done directly over the host operating system (OS) or ins
    
 ``` ansible-playbook -K our-doker.yml  -e  "internet_network_interface=<< internet network interface name>>" ```    
    
+**7. Test Installation**   
+    
+``` sudo docker ps ```
+
+
      
     
         
