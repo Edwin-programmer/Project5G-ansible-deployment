@@ -1,0 +1,3 @@
+ansible-playbook -K 5g-docker-deployment.yml -e  "internet_network_interface='enp4s0f2'"
+
+docker exec -ti ue bash 
