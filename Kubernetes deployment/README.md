@@ -28,7 +28,7 @@ $ go get -u github.com/aaaaa_server
 
 ## Overview
 
-![Setup overview](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment/etcd-cluster/IM/Overview.jpg)
+![Setup overview](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/Overview.jpg)
 
 
 
