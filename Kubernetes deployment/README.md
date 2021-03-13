@@ -6,7 +6,7 @@
 - [Configuration](#configuration)
   - [IP tables](#ip-tables)
   - [Minikube](#minikube)
-  - [Kubectl-native](#kubectl-native)
+  - [Kubectl](#kubectl-native)
   - [Openvswitch, Multus and OVS-CNI Containers](#openvswitch,-multus-and-ovs-cni-containers)
   - [Kube-flannel & etcd-ha-operator](#kube-flannel-&-etcd-ha-operator)
   - [Checks](#checks)
@@ -64,7 +64,7 @@ sudo install minikube-linux-amd64 /usr/local/bin/minikube
 sudo -E minikube start --driver=none
 sudo minikube start
 ```
-### Kubectl-native
+### Kubectl
 Configure kubectl using native package management. More details on setup are at https://kubernetes.io/docs/tasks/tools/
 ```
 sudo apt-get update && sudo apt-get install -y apt-transport-https gnupg2 curl
@@ -73,8 +73,6 @@ echo "deb https://apt.kubernetes.io/ kubernetes-xenial main" | sudo tee -a /etc/
 sudo apt-get update
 sudo apt-get install -y kubectl
 ```
-This will complete the kubernetes cluster.
-![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/pods_kubcluster.jpg)
 
 ### Kube-flannel & etcd-ha-operator
 ```
@@ -87,8 +85,36 @@ sudo kubectl create -f https://raw.githubusercontent.com/openshift/etcd-ha-opera
 sudo kubectl create -f https://raw.githubusercontent.com/openshift/etcd-ha-operator/master/deploy/cr.yaml
 sudo kubectl get pods
 ```
+![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/pods_kubcluster.jpg)
 
+### Openvswitch, Multus and OVS-CNI container
+```
+sudo apt install openvswitch-switch -y
+sudo ovs-vsctl add-br br1
+git clone https://github.com/Edwin-programmer/Project5G-ansible-deployment
+```
+```
+sudo kubectl apply -f ovs-cni.yml
+sudo kubectl apply -f https://raw.githubusercontent.com/intel/multus-cni/master/images/multus-daemonset.yml
+sudo kubectl apply -f ovs-net-crd.yaml
+sudo kubectl apply -f prom-node-exporter.yaml
+nano ovs-net-crd.yaml
 
+cat <<EOF >./ovs-net-crd.yaml
+apiVersion: "k8s.cni.cncf.io/v1"
+kind: NetworkAttachmentDefinition
+metadata:
+  name: ovs-net
+  annotations:
+    k8s.v1.cni.cncf.io/resourceName: ovs-cni.network.kubevirt.io/br1
+spec:
+  config: '{
+      "cniVersion": "0.3.1",
+      "type": "ovs",
+      "bridge": "br1"
+    }'
+EOF
+```
 
 See the [Tutorial](TUTORIAL.md) for more thorough setup instructions.
 
