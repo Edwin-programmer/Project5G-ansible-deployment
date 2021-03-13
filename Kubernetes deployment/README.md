@@ -150,7 +150,8 @@ sudo apt remove cmdtest
  ```
  ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/free5gc.jpg)
  ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/Listen.jpg)
+ ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/Added sub.jpg)
 
 See the [Tutorial](TUTORIAL.md) for more thorough setup instructions.
 
-An example configuration file can be found in the 
+ 
