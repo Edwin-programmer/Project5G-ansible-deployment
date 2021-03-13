@@ -14,7 +14,7 @@ The installation can be done directly over the host operating system (OS) or ins
 - Ubuntu 18.04 LTS
 
 
-**Steps**  
+### Configuration steps**  
 **1. Install python 2.7:**      
     
 ``` sudo apt update && apt -y install python ```    
