@@ -9,7 +9,7 @@
       + [Installation](#installation)
       + [Configuration steps](#configuration-steps)
   - [Kubernetes](#kubernetes)
-    - [Prerequisites](#prerequisites)
+    - [Prerequisites](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment#prerequisites)
     - [Overview](#overview)
     - [Configuration](#configuration)
       - [IP tables](#ip-tables)
@@ -18,7 +18,6 @@
     - [Openvswitch, Multus and OVS-CNI Containers](#openvswitch,-multus-and-ovs-cni-containers)
     - [Kube-flannel & etcd-ha-operator](#kube-flannel-&-etcd-ha-operator)
     - [Deployments](#Deployments)
-    - [Usage](#usage)
 - [Group Information](#group-information)
 
 ## Project Overview
