@@ -6,7 +6,7 @@
 - [Project Overview](#project-overview)
 - [Documentation](#documentation)
     * [Docker](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Docker%20deployment)
-      + [Installation](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Docker%20deployment#installation)
+      + [Requirements](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Docker%20deployment#requirements)
       + [Configuration steps](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Docker%20deployment#configuration-steps)
   - [Kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment)
     - [Prerequisites](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment#prerequisites)
