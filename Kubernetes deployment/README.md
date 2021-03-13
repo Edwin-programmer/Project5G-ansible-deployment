@@ -138,6 +138,19 @@ sudo kubectl apply -f free5gc-udr.yaml
 ```
 ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/node.jpg)
 
+## Web console Installation 
+(Require nodejs and yarn packages)
+```
+sudo apt remove cmdtest
+	sudo apt remove yarn
+	curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+	echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+	sudo apt-get update
+	sudo apt-get install -y nodejs yarn
+ ```
+ ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/free5gc.jpg)
+ ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/Listen.jpg)
+
 See the [Tutorial](TUTORIAL.md) for more thorough setup instructions.
 
 An example configuration file can be found in the 
