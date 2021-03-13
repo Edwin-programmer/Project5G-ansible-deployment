@@ -18,7 +18,7 @@
     - [Openvswitch, Multus and OVS-CNI Containers](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment#kubectl)
     - [Kube-flannel & etcd-ha-operator](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment#kubectl)
     - [Deployments](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment#Deployments)
-- [Group Information](#group-information)
+- [Group Information](#authors)
 
 ## Project Overview
 
