@@ -116,6 +116,27 @@ spec:
 EOF
 ```
 
+## Deployments
+```
+sudo kubectl apply -f nfvo-service-account-agent.yaml
+sudo kubectl apply -f mysql-deploy.yaml
+sudo kubectl apply -f kube5gnfvo.yaml
+sudo kubectl apply -f 5gmano-deploy.yaml
+```
+```
+sudo kubectl apply -f unix-daemonset.yaml
+sudo kubectl apply -f free5gc-mongodb.yaml
+sudo kubectl apply -f free5gc-configmap.yaml
+sudo kubectl apply -f free5gc-nrf.yaml
+sudo kubectl apply -f free5gc-ausf.yaml
+sudo kubectl apply -f free5gc-smf.yaml
+sudo kubectl apply -f free5gc-nssf.yaml
+sudo kubectl apply -f free5gc-pcf.yaml
+sudo kubectl apply -f free5gc-udm.yaml
+sudo kubectl apply -f free5gc-udr.yaml
+```
+![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/nodes.jpg)
+
 See the [Tutorial](TUTORIAL.md) for more thorough setup instructions.
 
 An example configuration file can be found in the 
