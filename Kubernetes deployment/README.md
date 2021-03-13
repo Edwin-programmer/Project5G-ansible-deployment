@@ -9,18 +9,13 @@
   - [Kubectl](#kubectl-native)
   - [Openvswitch, Multus and OVS-CNI Containers](#openvswitch,-multus-and-ovs-cni-containers)
   - [Kube-flannel & etcd-ha-operator](#kube-flannel-&-etcd-ha-operator)
-  - [Checks](#checks)
-    - [Repository Groups](#repository-groups)
-    - [Repository Authentication](#repository-authentication)
-    - [Organization Check](#organization-check)
 - [Deployments](#Deployments)
 - [Usage](#usage)
 
-
 ## Prerequisites
 
-Host OS Configuration and Kernel setup should be as follows: Ubuntu-bionic-18.04 running with Kernel 5.0.0-23 generic
-4G RAM, 10GHDD.
+The Host OS configuration and Kernel setup should be as follows: 
+- Ubuntu-bionic-18.04 running with Kernel 5.0.0-23 generic with 4G RAM, 10GHDD.
 Ensure Docker is running, further steps for installation are at https://docs.docker.com/get-docker/
 - Images from free5gc open-source were used. More details on free5gc can be found here https://www.free5gc.org/
 
