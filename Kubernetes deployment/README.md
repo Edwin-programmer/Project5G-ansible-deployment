@@ -138,7 +138,7 @@ sudo kubectl apply -f free5gc-udr.yaml
 ```
 ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/node.jpg)
 
-## Web console Installation 
+## Web console 
 (Require nodejs and yarn packages)
 ```
 sudo apt remove cmdtest
