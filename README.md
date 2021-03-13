@@ -5,9 +5,9 @@
 
 - [Project Overview](#project-overview)
 - [Documentation](#documentation)
-  - [Docker](#docker)
-    - [Installation](#installation)
-    - [Configuration steps](#configuration-steps)
+    * [Docker](#docker)
+    + [Installation](#installation)
+    + [Configuration steps](#configuration-steps)
  - [Kubernetes](#kubernetes)
     - [Prerequisites](#prerequisites)
     - [Overview](#overview)
