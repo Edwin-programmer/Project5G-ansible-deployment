@@ -118,12 +118,14 @@ EOF
 ```
 
 ## Deployments
+Deploy mysql, mano, nfvo
 ```
 sudo kubectl apply -f nfvo-service-account-agent.yaml
 sudo kubectl apply -f mysql-deploy.yaml
 sudo kubectl apply -f kube5gnfvo.yaml
 sudo kubectl apply -f 5gmano-deploy.yaml
 ```
+Deploy 5GC
 ```
 sudo kubectl apply -f unix-daemonset.yaml
 sudo kubectl apply -f free5gc-mongodb.yaml
@@ -135,6 +137,14 @@ sudo kubectl apply -f free5gc-nssf.yaml
 sudo kubectl apply -f free5gc-pcf.yaml
 sudo kubectl apply -f free5gc-udm.yaml
 sudo kubectl apply -f free5gc-udr.yaml
+```
+Deploy AMF/UPF
+```
+sudo sysctl -w net.ipv4.ip_forward=1 
+sudo iptables -t nat -A POSTROUTING -o ens4 -j MASQUERADE 
+git clone https://github.com/PrinzOwO/gtp5g
+cd gtp5g
+sudo apt install make
 ```
 ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/node.jpg)
 
