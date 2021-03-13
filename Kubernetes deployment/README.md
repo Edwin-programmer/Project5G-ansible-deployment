@@ -7,7 +7,7 @@
   - [IP tables](#ip-tables)
   - [Minikube](#minikube)
   - [Kubectl](#kubectl-native)
-  - [Openvswitch, Multus and OVS-CNI Containers](#openvswitch, multus and-ovs-cni-containers)
+  - [Openvswitch, Multus and OVS-CNI Containers](#openvswitch,-multus-and-ovs-cni-containers)
   - [Kube-flannel & etcd-ha-operator](#kube-flannel-&-etcd-ha-operator)
 - [Deployments](#Deployments)
 - [Usage](#usage)
