@@ -19,7 +19,8 @@
 
 ## Prerequisites
 
-Install `aaa_bbb` by running:
+ubuntu-bionic-18.04 running - Kernel 5.0.0-23 generic
+4G RAM, 10GHDD
 
 ```shell
 $ go get -u github.com/aaaaa_server
@@ -27,6 +28,7 @@ $ go get -u github.com/aaaaa_server
 
 ## Overview
 
+![Setup overview](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment/etcd-cluster/IM/Overview%20.jpg)
 
 
 
