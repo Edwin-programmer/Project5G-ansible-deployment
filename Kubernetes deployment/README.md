@@ -2,6 +2,7 @@
 # Using Kubernetes to deploy the 5G network
 
 - [Prerequisites](#prerequisites)
+- [Overview](#overview)
 - [Installation](#installation)
 - [Configuration](#configuration)
   - [IP tables](#ip-tables)
@@ -24,6 +25,13 @@ Install `aaa_bbb` by running:
 $ go get -u github.com/aaaaa_server
 ```
 
+## Overview
+
+
+
+
+
+
 ## Installation
 
 Install `aaa_bbb` by running:
@@ -35,6 +43,22 @@ $ go get -u github.com/aaaaa_server
 This will download and install the aaaaa binary into `$GOPATH/bin` directory.
 
 ## Configuration
+
+# IP tables
+
+Conntrack module provides stateful packet inspection for iptables
+
+Further information is located at http://conntrack-tools.netfilter.org/
+
+```
+sudo apt-get update -y
+sudo apt-get install -y conntrack
+```
+Enable IP tables
+```
+echo "net.bridge.bridge-nf-call-iptables=1" | sudo tee -a /etc/sysctl.conf
+sudo sysctl -p
+```
 
 See the [Tutorial](TUTORIAL.md) for more thorough setup instructions.
 
