@@ -3,7 +3,6 @@
 
 - [Prerequisites](#prerequisites)
 - [Overview](#overview)
-- [Installation](#installation)
 - [Configuration](#configuration)
   - [IP tables](#ip-tables)
   - [Minikube](#minikube)
@@ -41,23 +40,9 @@ sudo apt-get install -y docker-ce
 
 ![Setup overview](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/Overview.jpg)
 
-
-
-
-
-## Installation
-
-Install `aaa_bbb` by running:
-
-```shell
-$ go get -u github.com/aaaaa_server
-```
-
-This will download and install the aaaaa binary into `$GOPATH/bin` directory.
-
 ## Configuration
 
-# IP tables
+### IP tables
 
 Conntrack module provides stateful packet inspection for iptables
 
