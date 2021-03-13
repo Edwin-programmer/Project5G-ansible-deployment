@@ -8,7 +8,7 @@
     * [Docker](#docker)
       + [Installation](#installation)
       + [Configuration steps](#configuration-steps)
- - [Kubernetes](#kubernetes)
+  - [Kubernetes](#kubernetes)
     - [Prerequisites](#prerequisites)
     - [Overview](#overview)
     - [Configuration](#configuration)
