@@ -39,7 +39,7 @@ sudo apt-get install -y docker-ce
 
 ## Overview
 
-![Setup overview](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/Overview.jpg)
+![Setup overview](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/overview_.jpg)
 
 ## Configuration
 
