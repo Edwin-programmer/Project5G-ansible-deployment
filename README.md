@@ -9,7 +9,7 @@
       + [Installation](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Docker%20deployment#installation)
       + [Configuration steps](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Docker%20deployment#configuration-steps)
   - [Kubernetes](#kubernetes)
-    - [Prerequisites](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment#prerequisites)
+    - [_Prerequisites_](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment#prerequisites)
     - [Overview](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment#overview)
     - [Configuration](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment#configuration)
       - [IP tables](https://github.com/Edwin-programmer/Project5G-ansible-deployment/tree/main/Kubernetes%20deployment#ip-tables)
