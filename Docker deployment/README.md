@@ -1,10 +1,10 @@
 # Using Docker to deploy the 5G network
 
-- [Installation](#installation)
+- [Requirements](#requirements)
 - [Configuration steps](#configuration-steps)
 
 
-### Installation
+### Requirements
 The installation can be done directly over the host operating system (OS) or inside a virtual machine (VM).   
 
 **System requirements**
