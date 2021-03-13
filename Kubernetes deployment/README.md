@@ -22,7 +22,7 @@
 Host OS Configuration and Kernel setup should be as follows: Ubuntu-bionic-18.04 running with Kernel 5.0.0-23 generic
 4G RAM, 10GHDD.
 Ensure Docker is running, further steps for installation are at https://docs.docker.com/get-docker/
-Images from free5gc open-source were used. More details on free5gc can be found here https://www.free5gc.org/
+.Images from free5gc open-source were used. More details on free5gc can be found here https://www.free5gc.org/
 
 ```shell
 $ sudo apt-get update
