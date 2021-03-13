@@ -135,7 +135,7 @@ sudo kubectl apply -f free5gc-pcf.yaml
 sudo kubectl apply -f free5gc-udm.yaml
 sudo kubectl apply -f free5gc-udr.yaml
 ```
-![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/nodes.jpg)
+![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/node.jpg)
 
 See the [Tutorial](TUTORIAL.md) for more thorough setup instructions.
 
