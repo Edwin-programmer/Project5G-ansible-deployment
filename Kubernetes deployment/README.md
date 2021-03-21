@@ -153,6 +153,14 @@ sudo apt remove cmdtest
 	sudo apt-get update
 	sudo apt-get install -y nodejs yarn
  ```
+ To add subscriber information, you can do WebUI operations in the following order:
+	1.	Go to Subscriber Menu.
+	2.	Click + Button to add a new subscriber.
+	3.	Fill the IMSI, security context and APN of the subscriber.
+	4.	Click SAVE Button
+Enter the subscriber details of your SIM cards using this tool, to save the subscriber profile in the HSS and UDR MongoDB database backend. If you are using test SIMs, the details are normally printed on the card
+
+ 
  ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/free5gc.jpg)
  ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/Listen.jpg)
  ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/Added%20sub.jpg)
