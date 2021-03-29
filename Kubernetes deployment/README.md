@@ -165,6 +165,6 @@ Enter the subscriber details of your SIM cards using this tool, to save the subs
  ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/Listen.jpg)
  ![kubernetes](https://github.com/Edwin-programmer/Project5G-ansible-deployment/blob/main/Kubernetes%20deployment/etcd-cluster/IM/Added%20sub.jpg)
 
-See the [Tutorial](TUTORIAL.md) for more options on setup scenarios.
+See the [Tutorial](TUTORIAL.md) for videos on further options on setup scenarios.
 
  
