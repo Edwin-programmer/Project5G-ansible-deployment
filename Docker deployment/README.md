@@ -3,7 +3,7 @@
 - [Requirements](#requirements)
 - [Configuration steps](#configuration-steps)
 
-- [Previous](https://github.com/Edwin-programmer/Project5G-ansible-deployment)
+- [Project Main Page](https://github.com/Edwin-programmer/Project5G-ansible-deployment)
 
 
 ### Requirements
