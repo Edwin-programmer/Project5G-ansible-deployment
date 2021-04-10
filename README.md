@@ -1,5 +1,5 @@
 # 5G network deployment - Ansible and Kubernetes
-5G cloud-native integration and orchestration using the Open Network Automation Platform (ONAP) to deploy Cloud Native Functions (CNFs): OpenAirInterface (OAI) Cloud Radio Access Network (CloudRAN)
+5G cloud-native orchestration using containers and automation to deploy Cloud Native Network Functions: OpenAirInterface (OAI), Cloud Radio Access Network (CloudRAN) and 5G core network functions
 
 **Table of Contents**
 
