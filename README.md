@@ -1,5 +1,5 @@
-# 5G network deployment - Ansible and Kubernetes
-5G cloud-native orchestration using containers and automation to deploy Cloud Native Network Functions: OpenAirInterface (OAI), Cloud Radio Access Network (CloudRAN) and 5G core network functions
+# 5G Network Deployment - Ansible (with Docker) and Kubernetes deployments
+5G cloud-native orchestration using containers and automation to deploy Cloud Native Functions: OpenAirInterface (OAI), Cloud Radio Access Network (CloudRAN) and 5G core network functions
 
 **Table of Contents**
 
