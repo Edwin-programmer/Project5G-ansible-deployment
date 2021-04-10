@@ -1,5 +1,5 @@
-# 5G Network Deployment - Ansible (with Docker) and Kubernetes deployments
-5G cloud-native orchestration using containers and automation to deploy Cloud Native Functions: OpenAirInterface (OAI), Cloud Radio Access Network (CloudRAN) and 5G core network functions
+# 5G Network Deployment
+5G cloud-native orchestration using containers and automation to deploy Cloud Native Functions: OpenAirInterface (OAI), Cloud Radio Access Network (CloudRAN) and 5G Core Network Functions
 
 **Table of Contents**
 
@@ -22,7 +22,7 @@
 
 ## Project Overview
 
-In this project we explore the fifth generation (5G) cloud native solution as Mobile Network Operators (MNOs) need to integrate and test multiple components from the orchestration to the infrastructure level, including the applications and terminals. This demonstrates possibilities for reducing Operational Expenditures and injecting automation in the MNOs’ mobile network infrastructure.
+In this project we demonstrate the fifth generation (5G) cloud native solution deployments as Mobile Network Operators (MNOs) need to integrate and test multiple components from the orchestration to the infrastructure level, including the applications and terminals. This demonstrates possibilities for reducing Operational Expenditures and injecting automation in the MNOs’ mobile network infrastructure.
 
 ## Documentation
 
