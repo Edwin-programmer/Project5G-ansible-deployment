@@ -34,8 +34,8 @@ User documentation can be found below for the two options deployed for the proje
 ### Authors:
  
  -  **Kamal Isleem** _(GitHub: kamal2isleem)_
- -  **Samuel Hanson Hagan** _(GitHub: SamuelHagan-Carleton)_
- -  **Edwin Omoigui** _(GitHub: Edwin-programmer)_
+ -  **Samuel Hanson Hagan** _(GitHub: SamuelHagan-Carleton)
+ -  **Edwin Omoigui** [_GitHub: Edwin-programmer_](https://github.com/Edwin-programmer)
  -  **Muhammad Shafayat Oshman** _(GitHub: Shafayat19)_
 
 **Organization:** Carleton University - Advanced Topics in Communications Systems (SYSC5804 - 5G Networks)
